@@ -1,5 +1,5 @@
-dash==2.7.1
-plotly==5.14.1
-pandas==1.5.3
+dash==2.14.1
+plotly==5.18.0
+pandas==2.1.4
 openpyxl==3.1.2
-regex==2023.10.3
+gunicorn==21.2.0
