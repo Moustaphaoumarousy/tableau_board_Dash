@@ -1,2 +1,2 @@
 #!/bin/bash
-gunicorn --timeout 600 --workers 4 --bind 0.0.0.0:$PORT dashboaed2:server
+gunicorn --timeout 600 --workers 4 --bind 0.0.0.0:$PORT app:server
